@@ -10,6 +10,7 @@ Note, you need to start 2 sessions, one "Server" and one "Client." The server an
 5. Repeat step 4 until you are done and then exit the program.
 
 # File Structure
+```
 ├── LICENSE
 ├── README.md
 ├── cpp
@@ -29,8 +30,8 @@ Note, you need to start 2 sessions, one "Server" and one "Client." The server an
 │       └── server.cpp
 └── python
     ├── ConnectionManager.py
-    └── demo.py
-
+    └── demo.py 
+```
 # Credits
 I used a makefile from https://github.com/zakharykaplan/clip
 I used some of this code for interfacing between C++ and Python for multiple projets while I was working with iQua research group. This code was adapted from the code I used there. 
